@@ -3,6 +3,19 @@
 simply install the package and maintain a structure in your html files like so:
 
 ```
+npm install @alexisspa9/dropdown
+
+```
+
+then use in your javascript
+
+```
+const dropdownFunc = require('@alexisspa9/dropdown');
+
+```
+then in your html
+
+```
 <li class="hasDropdown">
 	<a href="#">Parent Element</a>
 	<ul class="dropdown">

@@ -1,6 +1,6 @@
 {
-  "name": "alexdropdown",
-  "version": "1.0.0",
+  "name": "@alexisspa9/dropdown",
+  "version": "1.0.1",
   "description": "A simple dropdown library",
   "main": "index.js",
   "scripts": {
